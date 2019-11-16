@@ -1,1 +1,1 @@
-# Vibration-Analysis
+# Vibration-Analysis-of-a-Cantilever-Beam
