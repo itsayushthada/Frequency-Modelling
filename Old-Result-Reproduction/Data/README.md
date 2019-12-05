@@ -10,6 +10,6 @@ of the dataset is as follow:<br>
 | D             | meter         | Depth of the Crack in the Cantilever Beam |
 | L1            | meter         | Distance of the First Crack from Attached Side of the Cantilever Beam |
 | L2            | meter         | Distance of the Second Crack from Attached Side of the Cantilever Beam |
-| W1            | radian/second | First Natural Frequncy of the Cantilever Beam |
-| W2            | radian/second | Second Natural Frequncy of the Cantilever Beam |
-| W3            | radian/second | Third Natural Frequncy of the Cantilever Beam |
+| W1            | Hertz | First Natural Frequncy of the Cantilever Beam |
+| W2            | Hertz | Second Natural Frequncy of the Cantilever Beam |
+| W3            | Hertz | Third Natural Frequncy of the Cantilever Beam |
