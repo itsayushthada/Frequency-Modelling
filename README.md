@@ -1,1 +1,1 @@
-# Vibration-Analysis-of-a-Cantilever-Beam
+# Vibration-Analysis of Free Ended Beam
