@@ -1,4 +1,4 @@
-# Vibration-Analysis of Free Ended Beam
+# Frequency Modelling of Fized Ended Beam
 
 
 **Paper Link:** https://www.sciencedirect.com/science/article/abs/pii/S0888327021003101
